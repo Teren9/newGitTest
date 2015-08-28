@@ -1,0 +1,12 @@
+body{
+	background-color: #fcffab;
+}
+div[role=main]{
+
+	margin-left: 50px;
+	color: blue;
+}
+footer{
+	float: left;
+	color: red;
+}
